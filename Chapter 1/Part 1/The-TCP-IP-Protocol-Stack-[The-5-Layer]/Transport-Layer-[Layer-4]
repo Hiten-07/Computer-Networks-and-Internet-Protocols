@@ -1,0 +1,2 @@
+Manages "process-to-process" communication.
+It handles error control and traffic management using protocols like TCP (connection-oriented) and UDP (connectionless).
