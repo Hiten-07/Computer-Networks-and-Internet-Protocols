@@ -1,0 +1,4 @@
+In a switched network, communication between distant stations is achieved through a series of intermediate switching nodes.
+• Purpose: These nodes provide a switching facility to find a path from the source to the destination.
+• Content Neutrality: Switching nodes are generally not concerned with the actual content of the data they carry.
+• Redundancy: Networks are often partially connected, but redundant paths are desirable to ensure reliability if a node or edge fails.
