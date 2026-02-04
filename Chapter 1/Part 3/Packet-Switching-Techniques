@@ -1,0 +1,9 @@
+1. Datagram Approach:
+    ◦ Each packet is treated independently and can take any practical route.
+    ◦ Packets may arrive out of order, be delayed, or lost.
+    ◦ The receiver is responsible for re-ordering and recovering missing packets.
+
+2. Virtual Circuit (VC) Approach:
+    ◦ A preplanned route is established via a "handshake" before data is sent.
+    ◦ Packets use a Virtual Circuit Identifier (VCI) instead of a full destination address.
+    ◦ Forwarding is faster as no individual routing decisions are needed per packet.
