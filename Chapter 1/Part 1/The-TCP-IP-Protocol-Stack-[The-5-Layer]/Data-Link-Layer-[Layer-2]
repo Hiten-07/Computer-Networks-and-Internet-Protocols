@@ -1,0 +1,2 @@
+Handles communication between local devices and helps reduce "collisions" to ensure better bandwidth. 
+Common protocols include Ethernet and Wi-Fi.
