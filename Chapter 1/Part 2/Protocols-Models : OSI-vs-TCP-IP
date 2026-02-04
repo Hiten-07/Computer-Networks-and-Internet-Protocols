@@ -1,0 +1,4 @@
+The course compares the theoretical OSI model with the practical TCP/IP stack:
+• OSI Model (7 Layers): Includes Physical, Data Link, Network, Transport, Session (manages connections), Presentation (formatting/encryption), and Application.
+• TCP/IP Suite (4 or 5 Layers): This is the dominant standard for inter-networking.
+  It typically maps its Application layer to cover the OSI's top three layers (Session, Presentation, and Application).
