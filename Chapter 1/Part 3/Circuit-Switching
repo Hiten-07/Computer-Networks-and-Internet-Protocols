@@ -1,0 +1,15 @@
+This technology involves a dedicated communication path between two stations.
+
+1. Three-Phase Process:
+    ◦ Establishment: Resources (switching and channel capacity) are allocated and a path is found.
+    ◦ Data Transfer: Information is transmitted over the dedicated path.
+    ◦ Disconnection: The connection is torn down and resources are released.
+
+2. Technological Approaches:
+    ◦ Space-Division Switching: Uses physical cross-points to connect inputs to outputs. Multi-stage switches are used to reduce the number of cross-points.
+    ◦ Time-Division Switching: Uses techniques like Time Slot Interchange (TSI) to selectively control which data comes out in which time slot.
+
+3. Properties and Issues:
+    ◦ Efficiency: Highly inefficient because channel capacity is dedicated for the entire duration, wasting bandwidth if no data is sent.
+    ◦ Fixed Rate: Both ends must operate at the same fixed data rate.
+    ◦ Use Case: Primarily developed for traditional voice (telephone) traffic.
