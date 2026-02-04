@@ -1,0 +1,8 @@
+Data is broken into small chunks called packets (typically 1000 octets), each containing user data and control information for routing.
+
+• Store and Forward: Each node receives a packet, buffers it briefly, and then passes it to the next node.
+
+• Advantages:
+    ◦ Line Efficiency: A single link can be shared by many packets over time.
+    ◦ Data Rate Conversion: Nodes can buffer data to equalise different speeds between stations.
+    ◦ Prioritisation: Specific packets can be given higher priority.
