@@ -1,0 +1,4 @@
+Professional networks use a three-tier model:
+1. Access Layer: Provides end-user connectivity.
+2. Distribution Layer: Handles policy-based routing and access control.
+3. Core Layer: Designed to switch packets as fast as possible across the internetwork.
