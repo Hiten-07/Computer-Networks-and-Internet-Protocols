@@ -1,0 +1,2 @@
+This is the top layer that end-users interact with. 
+Key protocols include HTTP for web browsing, FTP for file transfers, and SMTP for email.
