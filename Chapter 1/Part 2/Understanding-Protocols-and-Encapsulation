@@ -1,0 +1,9 @@
+ Definition:
+  A protocol is a controlled sequence of messages exchanged between two or more systems to accomplish a task.
+
+• Specifications: 
+  These define the sequence, format, and layout of messages so that receiving parties can decipher the data.
+
+• Encapsulation:
+  As data moves down the stack, it is "piggybacked" or becomes the payload for the layer below it.
+  For example, application data receives a TCP header (Transport), then an IP header (Network), and finally an Ethernet header and trailer (Data Link) before physical transmission.
