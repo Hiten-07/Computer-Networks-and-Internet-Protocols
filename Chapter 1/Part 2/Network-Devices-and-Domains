@@ -1,0 +1,10 @@
+Devices are categorised by the layer at which they function:
+
+• Layer 1 (Physical): Hubs and Repeaters amplify signals but cannot filter traffic. 
+  All connected devices share the same Collision Domain, leading to bandwidth loss during simultaneous transmissions.
+
+• Layer 2 (Data Link): Bridges and Switches filter traffic using MAC addresses.
+  Every port on a switch is its own collision domain, which effectively increases available bandwidth.
+
+• Layer 3 (Network): Routers filter traffic based on IP addresses. 
+  They are essential for inter-networking and serve to break up Broadcast Domains, preventing broadcast traffic from congesting the entire network.
