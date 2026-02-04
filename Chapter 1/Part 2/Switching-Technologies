@@ -1,0 +1,9 @@
+The lecture highlights two primary ways to move data across a network:
+
+1. Circuit Switching: 
+   A dedicated communication path is established for the duration of the transfer (e.g., traditional phone calls). While it guarantees bandwidth, it is inefficient because the capacity is wasted if no data is being sent.
+
+2. Packet Switching: 
+   Data is split into small packets (typically 1000 octets) that are routed independently.
+    ◦ Datagram Approach: Each packet is treated independently and can take different routes, potentially arriving out of order.
+    ◦ Virtual Circuit Approach: A preplanned route is established before packets are sent, using identifiers instead of full destination addresses for faster forwarding.
