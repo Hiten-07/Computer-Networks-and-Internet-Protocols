@@ -1,0 +1,3 @@
+The IETF internet architecture is often described as an hourglass shape, where many application protocols and physical networks all converge at a narrow middle point: the IP layer.
+• Non-Strict Layering: Applications are free to bypass the transport layer to talk directly to the IP layer.
+• Socket API: This is the software interface (Application Program Interface) used by applications to interact with the protocol stack implemented within the operating system.
