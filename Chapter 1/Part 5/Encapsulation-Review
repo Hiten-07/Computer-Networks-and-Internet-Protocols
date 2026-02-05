@@ -1,0 +1,1 @@
+As data moves from the application layer down the stack, the application data and its header become the payload for the Transport layer, then the IP layer, and finally the Data Link layer for physical transmission.
