@@ -1,0 +1,4 @@
+To ensure successful communication, three elements are essential:
+1. Syntax: Refers to the data format and signal levels.
+2. Semantics: Includes control information for coordination and error-handling capabilities.
+3. Timing: Manages speed matching (synchronising incoming and outgoing streams) and the sequencing of packets to ensure they are reconstructed in the correct order.
