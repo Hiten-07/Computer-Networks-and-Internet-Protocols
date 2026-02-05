@@ -1,0 +1,3 @@
+Encapsulation allows for a modular "stack" where data generated at a higher level becomes the payload for the layer immediately below it.
+• Intermediate devices, such as routers or switches, only "open" a packet up to the layer necessary for their function (e.g., a router opens a packet to the Network layer to read the IP header).
+• Each layer adds its own header (and sometimes a trailer) to the data as it moves down the stack.
