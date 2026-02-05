@@ -1,0 +1,3 @@
+• Identification: While an IP address identifies a specific system on the network, a Port Number is required to identify a specific process (application) running on that system.
+• The Socket: A network socket is established to connect a source and destination. A connection is defined by a 5-tuple: Source IP, Source Port, Destination IP, Destination Port, and Protocol.
+• Daemons: On the server side, applications run as "daemons" (e.g., httpd for web servers) that constantly "listen" to a specific port for incoming client requests.
