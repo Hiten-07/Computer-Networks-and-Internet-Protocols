@@ -1,0 +1,2 @@
+• Resolver: A client system uses a DNS resolver to send a name to a DNS server, which returns the corresponding IP address required for routing.
+• Hierarchical Structure: DNS uses Top-Level Domains (TLDs) such as .in (India), .edu (Education), and .com (Commercial). Sub-domains (e.g., ac.in) further categorise the address.
