@@ -1,0 +1,5 @@
+• DNS (Domain Name System): Translates human-readable domain names into IP addresses.
+• HTTP (Hypertext Transfer Protocol): The foundation of web browser communication.
+• SMTP (Simple Mail Transfer Protocol): Used for sending and receiving email.
+• FTP/TFTP: Used for reliable (FTP) or simple connectionless (TFTP) file transfers.
+• Telnet: Allows users to log in to and execute commands on a remote host.
