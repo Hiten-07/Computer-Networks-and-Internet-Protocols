@@ -1,0 +1,7 @@
+ Physical Layer (Layer 1): Responsible for transmitting raw bits over a communication link, typically converting digital data into analog signals.
+• Data Link Layer (Layer 2): Collects bits into frames and handles "hop-to-hop" connectivity using hardware MAC addresses.
+• Network Layer (Layer 3): Routes packets between nodes across the internetwork, finding the optimal path from source to destination.
+• Transport Layer (Layer 4): Provides process-to-process communication using messages.
+    ◦ TCP: Connection-oriented and reliable.
+    ◦ UDP: Connectionless, fast, and "best-effort".
+• Application Layer: The top layer that synchronises cooperating applications and identifies communication partners.
