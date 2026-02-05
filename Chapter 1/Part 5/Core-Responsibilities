@@ -1,0 +1,4 @@
+Beyond data exchange, this layer handles:
+• Partner Identification: Determining if the intended communication partner is available.
+• Synchronisation: Orchestrating cooperating applications, such as managing the timing of a request-response chat session.
+• Integrity and Recovery: Establishing procedures for data integrity and error recovery.
