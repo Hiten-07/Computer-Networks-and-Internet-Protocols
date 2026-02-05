@@ -1,0 +1,3 @@
+• User Centrality: The application layer is the most vital layer for clients because it is the only part of the stack the user actually sees and interacts with (e.g., web pages, email clients).
+• Abstraction: The underlying network complexity—routers, protocols, and hardware—is hidden from the user; they are only concerned with the application's output.
+• Programming Interface: It serves as the "programming interface" to the entire networking paradigm.
