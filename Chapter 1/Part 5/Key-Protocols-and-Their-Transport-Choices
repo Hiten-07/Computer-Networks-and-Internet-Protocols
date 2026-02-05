@@ -1,0 +1,25 @@
+Applications choose a transport protocol based on their specific needs for reliability or speed.
+Protocol
+Function
+Transport Layer
+HTTP
+Web page access/request-response
+TCP (Reliable)
+DNS
+Translates names (www.iitkgp.ac.in) to IP addresses
+UDP (Fast)
+FTP
+Large-scale, reliable file transfers
+TCP (Reliable)
+TFTP
+Trivial FTP; small, easy to implement for router images
+UDP (Connectionless)
+SMTP
+Sending and receiving electronic mail
+TCP (Reliable)
+SNMP
+Exchange of network management information
+UDP (Best-effort)
+Telnet
+Remote login to execute commands via command line
+TCP (Reliable)
